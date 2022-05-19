@@ -1,0 +1,84 @@
+.container3 {
+    /* width: 80%;
+    display: flex;
+    margin: 0% auto;
+    justify-content: space-between; */
+    width: 100%;
+    display: flex;
+    margin: 0% auto;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 10vh
+}
+
+.left_logo {
+    color: white;
+    width: 300px;
+    height: 300px;
+    margin-left: 10vh;
+    /* text-align: center; */
+    font-size: 2vh;
+    margin-top: 5vh;
+}
+
+.center3 {
+    color: white;
+    width: 200px;
+    height: 300px;
+    padding: 5px;
+    /* justify-content: space-between; */
+    font-size: 2vh;
+    margin-top: 5vh;
+}
+
+.right3 {
+    color: white;
+    margin-right: 6vh;
+    font-size: 2vh;
+    width: 200px;
+    height: 300px;
+    margin-top: 5vh;
+}
+
+
+
+.about_us {
+    padding: 10px;
+}
+
+.contact_us {
+    padding: 10px;
+}
+
+.PP {
+    padding: 10px;
+}
+
+.FAQ {
+    padding: 10px;
+}
+
+.TC {
+    padding: 10px;
+}
+
+
+.facebook {
+    padding: 10px;
+}
+
+.instagram {
+    padding: 10px;
+}
+
+.whatsapp {
+    padding: 10px;
+}
+
+.linkedln {
+    padding: 10px;
+}
+
+.gmail {
+    padding: 10px;
+}
